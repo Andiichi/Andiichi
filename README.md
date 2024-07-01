@@ -15,10 +15,12 @@ Sou uma carioca que resolveu saí do RJ para o RS, e te suporte ao usuário a pr
 
 ## ⚙🍀 Habilidades de programação e Linguagens de Marcação e Estilo
 ![JavaScript](https://img.shields.io/badge/JavaScript-FACFCE?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/c-FACFCE?style=for-the-badge&logo=c)
-![PHP](https://img.shields.io/badge/php-FACFCE?style=for-the-badge&logo=php)
 ![HTML5](https://img.shields.io/badge/html-FACFCE?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-FACFCE?style=for-the-badge&logo=css3)
+![PYTHON3](https://img.shields.io/badge/python-FACFCE?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/php-FACFCE?style=for-the-badge&logo=php)
+![MYSQL](https://img.shields.io/badge/mysql-FACFCE?style=for-the-badge&logo=mysql)
+
 
 
 ## 🌟 Github Stats
